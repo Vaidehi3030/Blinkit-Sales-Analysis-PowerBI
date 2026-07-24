@@ -51,7 +51,7 @@ The objective is to identify key business drivers and improve operational decisi
 - Sales fluctuate across outlet establishment years, indicating varying performance of outlets over time.
 
 # Dashboard Preview
-- <img width="1032" height="737" alt="Screenshot 2026-07-24 154049" src="https://github.com/user-attachments/assets/9bef97e1-aa89-45f2-b008-a466a66ccd82" />
+<img width="1032" height="737" alt="Screenshot 2026-07-24 154049" src="https://github.com/user-attachments/assets/9bef97e1-aa89-45f2-b008-a466a66ccd82" />
 
 # Key Skills Demonstrated
 - Data Cleaning
